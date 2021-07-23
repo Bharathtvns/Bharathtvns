@@ -1,0 +1,138 @@
+body{
+	background-color:black;
+	background-image: url("back.html");
+	background-image: url('gif(1)(1).gif');
+	color: white;
+
+}
+
+.Name{
+	padding: 20px;
+	 color: white;
+	 font-style: italic;
+	 text-align: center;
+	 font-size: 30px;
+	 display: block;
+}
+.navbar{
+	margin-top: 0%;
+	background-color:black;
+	overflow: hidden;
+	text-align: right;
+
+  }
+.navbar a {
+	float: left;
+	color: #f2f2f2;
+	text-align: right;
+	padding: 1px 1px;
+	text-decoration: none;
+	font-size: 17px;
+  }
+.navbar a:hover {
+	background-color:white;
+	color: black;
+  }
+.navbar a:active {
+	background-color:gold;
+	color: white;
+  }
+
+
+
+.Picture{
+	
+	background-repeat: no-repeat;
+
+	color:white;
+	text-align: center;
+}
+
+.About_me{
+	align-items: center;
+	width: 800px;
+	min-height: 30px;
+    min-width:400px;
+	border: 1px red solid;
+	border-radius: 15px;
+	margin-top: 30px; 
+	margin-left: 18.7%;
+	position: relative;
+	margin-bottom: 20px;
+	padding: 10px;
+    color: white;
+	background-image: url('dark.png');
+    
+}
+.About_me h2{
+	text-align: center;
+	text-decoration-line: underline;
+}
+.block{
+	float:left;
+	width:45%;
+	border: 3px red dotted;
+	padding: 10px;
+	margin-left: 20px;
+	margin-bottom: 40px;
+	color: white;
+	border-radius: 15px;
+	box-sizing: border-box;
+	display: block;
+}
+.box{
+   height: 600px;
+   width: 33%;
+
+
+}
+
+.container h2{
+   text-align: center;
+
+
+}
+.Skills{
+	text-align: center;
+	font-size: 100px;
+	color: white;
+	margin-bottom: 20px;
+	margin-top: 30px;
+}
+.cards{
+	margin-left: 30px;
+	display: inline;
+}
+.footer{
+	color: white;
+	text-align: left;
+}
+.social-icons a {
+	width: 40px;
+	height: 40px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #e6e3e3;
+	margin: 20px 10px;
+	border-radius: 50%;
+  }
+  .social-icons {
+	display: flex;
+  }
+  .social-icons i,
+  .social i {
+	color: #000000;
+  }
+  .social-icons a:hover {
+	background-color: #000000;
+	box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
+	transition: all ease 0.5s;
+  }
+  .social-icons a:hover i,
+  .social a:hover i {
+	color: #ffffff;
+	transition: all ease 0.5s;
+  }
+  
+  jgz-xkje-ymm
