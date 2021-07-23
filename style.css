@@ -19,9 +19,9 @@ body{
 	background-color:black;
 	overflow: hidden;
 	text-align: right;
-	padding: 21px;
-	padding-left: 50px;
-	padding-right: 50px;
+	padding: 25px;
+	padding-left: 51px;
+	padding-right: 51px;
   }
 .navbar a {
 	float: left;
